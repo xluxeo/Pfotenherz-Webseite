@@ -1,8 +1,75 @@
-## Von 06/2024
-## Ehemals Abi-Projekt Cuddle Care
-# Startseite
-<img width="1493" height="974" alt="image" src="https://github.com/user-attachments/assets/4c52a7c4-003d-4808-b906-fd70fc2df5e0" />
-<img width="1498" height="963" alt="image" src="https://github.com/user-attachments/assets/f6ab096f-ba64-4e6f-9f19-9f59ed609bd2" />
-<img width="1496" height="968" alt="image" src="https://github.com/user-attachments/assets/a0f7178a-5df8-4526-a923-b5b020486c74" />
+# Nuxt Minimal Starter
 
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Setup
+
+Make sure to install dependencies:
+
+```bash
+# npm
+npm install
+
+# pnpm
+pnpm install
+
+# yarn
+yarn install
+
+# bun
+bun install
+```
+
+## Development Server
+
+Start the development server on `http://localhost:3000`:
+
+```bash
+# npm
+npm run dev
+
+# pnpm
+pnpm dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
