@@ -8,7 +8,7 @@ const message = ref("Nuxt, Tailwind & TS laufen!")
     <div class="p-8 bg-white rounded-2xl shadow-xl text-center">
       <h1 class="text-3xl font-bold text-blue-600 mb-4">{{ message }}</h1>
       <UButton color="blue" variant="solid" @click="message = 'Es funktioniert perfekt!'">
-        Klick mich
+       Hallo
       </UButton>
     </div>
   </div>
